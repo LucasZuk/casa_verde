@@ -1,48 +1,57 @@
-# Wordpress - ignore core, configuration, examples, uploads and logs.
-# https://github.com/github/gitignore/blob/main/WordPress.gitignore
-
-# Core
-#
-# Note: if you want to stage/commit WP core files
-# you can delete this whole section/until Configuration.
-/wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/wp-includes/
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
-
-# Configuration
+# WP
 wp-config.php
+.htaccess
 
-# Example themes
-/wp-content/themes/twenty*/
+# Applications
+*.app
+*.exe
+*.war
 
-# Example plugin
-/wp-content/plugins/hello.php
-
-# Uploads
-/wp-content/uploads/
-
-# Log files
+# ARCHIVES
+logs/*
 *.log
+*.zip
+*.7z
 
-# htaccess
-/.htaccess
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
 
-# All plugins
-#
-# Note: If you wish to whitelist plugins,
-# uncomment the next line
-#/wp-content/plugins
+# IDE
+.idea
+.idea/
+vim.exe.stackdump
+bash.exe.stackdump
 
-# All themes
-#
-# Note: If you wish to whitelist themes,
-# uncomment the next line
-#/wp-content/themes
+# FICHIERS INVISIBLES
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+*[Tt]humbs.db
+*.Trashes
+dbsr/
+
+# WORDPRESS
+wp-content/logs/
+
+# Package files
+*.jar
+
+# NODE
+node_modules/
+**/node_modules/
+npm-debug.log
+.sass-cache/
+.sublime-gulp.cache
+wp-content/themes/**/dist/
+
+# AUTRE
+.sass-cache/
+debug.log

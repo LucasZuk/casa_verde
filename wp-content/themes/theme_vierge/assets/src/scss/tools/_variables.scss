@@ -1,0 +1,46 @@
+/**
+ * COLORS
+ */
+$color-base: #000;
+$color-red: #e30513;
+$color-grey: #b2b2b2;
+$color-grey-light: #ededed;
+$color-grey-dark: #707070;
+$color-white: #fff;
+$color-green: #00a19a;
+
+/**
+ * FONTS
+ */
+$font-base: CenturyGothic, Arial, sans-serif;
+$font-heading: "Elephant", Arial, sans-serif !important;
+
+/**
+ * PATHS
+ */
+$img-path: "../images/";
+$fonts-path: "../fonts/";
+
+/**
+ * BREAKPOINTS
+ */
+$mobile: 576px;
+$tablet: 767px;
+$desktop: 1000px !default; // 960px container + 40px
+$widescreen: 1192px !default; // 1152px container + 40px
+
+/**
+ * BOOTSTRAP VARIABLES
+ */
+$container-max-widths: (
+  sm: 650px,
+  md: 900px,
+  lg: 1100px,
+  xl: 1320px,
+) !default;
+
+/**
+ * DURATION
+ */
+
+$transform-duration: 250ms;

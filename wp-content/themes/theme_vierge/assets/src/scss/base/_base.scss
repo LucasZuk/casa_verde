@@ -1,0 +1,97 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+}
+
+html,
+body {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: $font-base;
+  color: $color-base;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+*,
+*:hover,
+*:focus {
+  outline: 0 !important;
+  font-family: $font-base;
+}
+
+h1 {
+  font-family: $font-heading;
+}
+
+/**
+ * COMMONS
+ */
+
+#menu-menu-header li::before,
+#menu-menu-footer li::before {
+  content: initial;
+}
+
+// Paragraphs
+p {
+}
+
+// Strong
+strong {
+  font-weight: bold;
+}
+
+// Images WP
+img.aligncenter {
+  display: block;
+  margin: auto;
+}
+
+img.alignright {
+  display: block;
+  float: right;
+
+  &:after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+}
+
+// @include font-face(Elephant, fonts/Elephant);
+// @include font-face(
+//   CenturyGothic,
+//   fonts/CenturyGothic-Bold-Italic,
+//   bold,
+//   italic
+// );
+// @include font-face(CenturyGothic, fonts/CenturyGothic-Bold, bold);
+// @include font-face(CenturyGothic, fonts/CenturyGothic-Italic, normal, italic);
+// @include font-face(CenturyGothic, fonts/CenturyGothic-Regular);
+
+div {
+  article {
+    p {
+      color: blue;
+    }
+  }
+}

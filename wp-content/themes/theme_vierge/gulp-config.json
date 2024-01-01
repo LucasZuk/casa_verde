@@ -1,0 +1,30 @@
+{
+    "app": {
+        "name":         "La Ruche Industrielle",
+        "description":  "",
+        "url":          "",
+        "author":       "Seekoya",
+        "authorUrl":    "",
+        "background":   "#FFFFFF",
+        "version":      "1.0"
+    },
+
+    "dest": {
+        "filePrefix":   "",
+        "dir":          "assets/dist/",
+        "css":          "assets/dist/css/",
+        "fonts":        "assets/dist/fonts/",
+        "js":           "assets/dist/js/",
+        "img":          "assets/dist/img/",
+        "icons":        "assets/dist/svg/"
+    },
+
+    "assets": {
+        "dir":      "assets/src/",
+        "sass":     "assets/src/scss/",
+        "js":       "assets/src/js/",
+        "img":      "assets/src/img/",
+        "icons":    "assets/src/svg/",
+        "fonts":    "assets/src/fonts/"
+    }
+}
