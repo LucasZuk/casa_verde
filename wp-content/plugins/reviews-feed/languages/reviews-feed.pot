@@ -1,0 +1,1539 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-28 16:21+0100\n"
+"PO-Revision-Date: 2023-02-07 14:29-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../class\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Common/Admin/MenuService.php:32
+msgid "All Feeds"
+msgstr ""
+
+#: Common/Admin/MenuService.php:32
+msgid "Set up Plugin"
+msgstr ""
+
+#: Common/Admin/MenuService.php:35
+msgid "Reviews Feed"
+msgstr ""
+
+#: Common/Admin/SBR_Admin_Notice.php:45
+#, php-format
+msgid ""
+"You have reached the maximum sources limit for (%s), Please enter a valid "
+"API key to retrieve new sources. Please add API Key %shere%s"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:302 Common/Admin/SBR_Notifications.php:648
+msgid "Are you enjoying the Reviews Feed Plugin?"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:308 Common/Admin/SBR_Notifications.php:636
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:57
+msgid "Yes"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:314 Common/Admin/SBR_Notifications.php:641
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:58
+msgid "No"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:415 Common/Admin/SBR_Notifications.php:669
+msgid ""
+"Glad to hear you are enjoying it. Would you consider leaving a positive "
+"review?"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:417
+msgid "Exclusive Offer! 60% OFF"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:441 Common/Admin/SBR_Notifications.php:670
+msgid ""
+"It really helps to support the plugin and help others to discover it too!"
+msgstr ""
+
+#: Common/Admin/SBR_New_User.php:443
+msgid ""
+"We don’t run promotions very often, but for a limited time we’re offering "
+"60% Off our Pro version to all users of our free Reviews Feed."
+msgstr ""
+
+#: Common/Admin/SBR_Plugin_Insltaller.php:43
+msgid ""
+"Could not install addon. Please download from smashballoon.com and install "
+"manually."
+msgstr ""
+
+#: Common/Admin/SBR_Plugin_Insltaller.php:103
+msgid "Plugin Installed & Activated."
+msgstr ""
+
+#: Common/Admin/SBR_Plugin_Insltaller.php:103
+msgid "Plugin Installed."
+msgstr ""
+
+#: Common/Admin/SBR_Plugin_Insltaller.php:134
+msgid "Could not Activate the Plugin. Please Activate from the Plugins page."
+msgstr ""
+
+#: Common/Admin/SBR_Plugin_Insltaller.php:162
+msgid ""
+"Could not deactivate the Plugin. Please deactivate from the Plugins page."
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:63
+msgid "Getting Started"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:64
+msgid "Some helpful resources to get you started"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:68
+msgid "Getting Started with Reviews Feed"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:72
+msgid "How to Create a Yelp API Key"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:76
+msgid "How to Create a Google API Key"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:81
+msgid "More help on Getting started"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:86
+msgid "Docs & Troubleshooting"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:87
+msgid "Run into an issue? Check out our help docs."
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:91
+msgid "Why do I only see a few reviews?"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:95
+msgid "How to Resolve Error Messages"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:99
+msgid "Translating Google Reviews"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:104
+msgid "View Documentation"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:109
+msgid "Additional Resources"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:110
+msgid "To help you get the most out of the plugin"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:114
+msgid "Can I Display Multiple Reviews on One Page?"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:118
+msgid "License Tiers Explained (additional review providers)"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:122
+msgid "How do I Embed My Feed Directly in a Template?"
+msgstr ""
+
+#: Common/Admin/SBR_Support_Builder.php:127
+msgid "View Blog"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:128
+msgid "Default"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:132
+msgid "Simple Cards"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:137
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:165
+msgid "Masonry"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:148
+msgid "Single Review"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:153
+msgid "Showcase Carousel"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:158
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:170
+msgid "Carousel"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Builder.php:163
+msgid "Grid Carousel"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Saver_Manager.php:507
+msgid "Supports only Json file"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Saver_Manager.php:512
+msgid "Don't have file, Please try again"
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Saver_Manager.php:898
+msgid "No feed source is included. Cannot upload feed."
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Saver_Manager.php:910
+msgid "Feed settings imported successfully."
+msgstr ""
+
+#: Common/Builder/SBR_Feed_Saver_Manager.php:915
+msgid "Could not import feed. Please try again"
+msgstr ""
+
+#: Common/Customizer/DB.php:407 Common/Customizer/Tabs/SBR_Customize_Tab.php:77
+#: Common/Feed_Locator.php:368
+msgid "Header"
+msgstr ""
+
+#: Common/Customizer/DB.php:409 Common/Feed_Locator.php:378
+msgid "Footer"
+msgstr ""
+
+#: Common/Customizer/DB.php:411 Common/Feed_Locator.php:373
+msgid "Sidebar"
+msgstr ""
+
+#: Common/Customizer/DB.php:413
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:592 Common/Feed_Locator.php:364
+msgid "Content"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:30
+msgid "Customize"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:44
+msgid "Templates"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:58
+msgid "Layout"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:83 Common/FeedDisplay.php:105
+#: Common/FeedDisplay.php:113
+msgid "Reviews"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:89
+msgid "Load More Button"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:92
+#, php-format
+msgid ""
+"Upgrade to Pro to Load posts asynchronously with Load more button. %sLearn "
+"More%s"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:153
+msgid "List"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:178
+msgid "Spacing"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:183
+msgid "Vertical"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:191
+msgid "Horizontal"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:208
+msgid "Number of reviews to display"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:244
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:284
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:333
+msgid "Columns"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:324
+msgid "Columns and Rows"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:426
+msgid "Pagination"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:439
+msgid "Loop Type"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:441
+msgid "Rewind"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:442
+msgid "Infinity"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:451
+msgid "Interval Time"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:457
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:467
+msgid "Show Pagination"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:477
+msgid "Enable Autoplay"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:489
+msgid "Content Length"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:494
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:335
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:346
+msgid "characters"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:517
+msgid "Inherit from Theme"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:522
+msgid "Light"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:527
+msgid "Dark"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:532
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1569
+msgid "Custom"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:567
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:938
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:373
+msgid "Enable"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:577
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1201
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1313
+msgid "Name"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:584
+msgid "Heading"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:609
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:706
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:804
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:992
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1219
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1269
+msgid "Color"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:614
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:694
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:714
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:961
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:973
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1004
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1017
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1276
+msgid "Text"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:630
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:750
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:838
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1054
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1174
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1229
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1284
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1336
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1381
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1452
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1501
+msgid "Element Spacing"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:638
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:756
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:844
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:877
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1064
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1180
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1235
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1290
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1342
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1458
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1507
+msgid "Padding"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:645
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:763
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:851
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:887
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1075
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1242
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1297
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1349
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1387
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1465
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1514
+msgid "Margin"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:651
+msgid "Button"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:658
+msgid "Link to"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:666
+msgid "Google (Write a Review)"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:667
+msgid "External Link"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:723
+msgid "Background"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:732
+msgid "Text/ Hover"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:741
+msgid "Bg/ Hover"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:772
+msgid "Average Review Rating"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:780
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:821
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1206
+msgid "Rating"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:792
+msgid "Rating Subtext"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:812
+msgid "Rating Icon"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:830
+msgid "Subtext"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:865
+msgid "Element Header Spacing"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:908
+msgid "Post Style"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:916
+msgid "Edit Individual Elements"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:917
+msgid "Hide or Show individual elements of a post or edit their options"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1030
+msgid "Text / Hover"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1043
+msgid "Bg / Hover"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1103
+msgid "Boxed"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1109
+msgid "Regular"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1119
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1478
+msgid "Colors"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1124
+msgid "Background Color"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1139
+msgid "Properties"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1147
+msgid "Box Shadow"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1156
+msgid "Corner Radius"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1162
+msgid "Stroke"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1213
+msgid "Icon Color"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1250
+msgid "Review Paragraph"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1257
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1324
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1402
+msgid "Font"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1305
+msgid "Author and Date"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1317
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1485
+msgid "Author Name"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1357
+msgid "Author Image"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1370
+msgid "Border Radius"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1395
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1493
+msgid "Date"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1414
+msgid "Format"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1433
+msgid "Add text before date"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1441
+msgid "Add text after date"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1522
+msgid "Images or Videos"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Customize_Tab.php:1549
+msgid "2 days ago"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:29 sbr-functions.php:434
+msgid "Settings"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:43
+msgid "Sources"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:48
+msgid "Sort"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:53
+msgid "Filters"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:57
+#, php-format
+msgid "Upgrade to Pro to apply filters to your reviews feed. %sLearn More%s"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:65
+msgid "Moderation"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:70
+#, php-format
+msgid "Upgrade to Pro to moderate your feed. %sLearn More%s"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:85
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:47
+msgid "Language"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:86
+msgid "Change language of what posts are displayed in"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:133
+msgid "By Date"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:151
+msgid "Latest Reviews First"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:152
+msgid "Oldest Reviews First"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:172
+msgid "By Rating"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:190
+msgid "Highest Rated First"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:191
+msgid "Lowest Rated First"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:209
+msgid "Randomize"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:210
+msgid ""
+"This will disable “By date” and “By rating” and randomly choose among the "
+"filtered reviews"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:270
+msgid "By Words"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:278
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:279
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:289
+msgid "Only show reviews containing"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:280
+msgid "Add words here to only show posts containing these words"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:288
+msgid "Do not show reviews containing"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:290
+msgid "Add words here to hide any posts containing these words"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:324
+msgid "By Character Count"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:334
+msgid "Minimum"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:345
+msgid "Maxiumum"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:347
+msgid "Unset"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:390
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:427
+msgid "Allow List"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:391
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:429
+msgid "Hides post by default so you can select the ones you want to show"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:395
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:433
+msgid "Block List"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:396
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:435
+msgid "Show all posts by default so you can select the ones you want to hide"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:412
+msgid "You can only view and filter through the last 100 reviews"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:413
+msgid ""
+"Due to platform API limitations, we cannot store and provide you with a "
+"complete repository of your reviews."
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:458
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:29
+msgid "Advanced"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:492
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:53
+msgid "Reset"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:500
+msgid "Limited Support"
+msgstr ""
+
+#: Common/Customizer/Tabs/SBR_Settings_Tab.php:501
+msgid ""
+"Only Google supports different languages. Reviews from other providers will "
+"still show up in English or the language they were submitted in."
+msgstr ""
+
+#: Common/Feed.php:65 Pro/Feed.php:17
+#, php-format
+msgid "No feed with the ID %d found."
+msgstr ""
+
+#: Common/Feed.php:65 Pro/Feed.php:17
+#, php-format
+msgid "Please go to the %sReviews Feed%s settings page to create a feed."
+msgstr ""
+
+#: Common/Feed.php:69 Pro/Feed.php:21
+msgid "No sources available for this feed."
+msgstr ""
+
+#: Common/Feed.php:69 Pro/Feed.php:21
+#, php-format
+msgid ""
+"Please go to the %sReviews Feed%s settings page add sources for this feed to "
+"use."
+msgstr ""
+
+#: Common/Feed.php:180
+msgid "No Posts Found."
+msgstr ""
+
+#: Common/Feed.php:182
+#, php-format
+msgid ""
+"There were no posts that fit your filters. Try modifying the filters set or "
+"add more sources with reviews that fit the filter by %sediting your feed%s"
+msgstr ""
+
+#: Common/Feed.php:184
+#, php-format
+msgid ""
+"There were no posts found for the sources selected. Make sure reviews are "
+"available for this source or change the source by %sediting your feed%s"
+msgstr ""
+
+#: Common/Feed.php:335
+#, php-format
+msgid ""
+"This is affecting the source %s for %s. New reviews will not be fetched "
+"until this is resolved."
+msgstr ""
+
+#: Common/Feed.php:337
+#, php-format
+msgid "Troubleshoot by visiting %serror message reference page%s."
+msgstr ""
+
+#: Common/FeedDisplay.php:117 Common/Settings/Tabs/SBR_Translation_Tab.php:72
+#: sbr-functions.php:277
+msgid "Write a Review"
+msgstr ""
+
+#: Common/FeedDisplay.php:238 Common/Settings/Tabs/SBR_Translation_Tab.php:77
+#: sbr-functions.php:262
+msgid "second"
+msgstr ""
+
+#: Common/FeedDisplay.php:239 Common/Settings/Tabs/SBR_Translation_Tab.php:82
+#: sbr-functions.php:263
+msgid "seconds"
+msgstr ""
+
+#: Common/FeedDisplay.php:240 Common/Settings/Tabs/SBR_Translation_Tab.php:87
+#: sbr-functions.php:264
+msgid "minute"
+msgstr ""
+
+#: Common/FeedDisplay.php:241 Common/Settings/Tabs/SBR_Translation_Tab.php:92
+#: sbr-functions.php:265
+msgid "minutes"
+msgstr ""
+
+#: Common/FeedDisplay.php:242 Common/Settings/Tabs/SBR_Translation_Tab.php:97
+#: sbr-functions.php:266
+msgid "hour"
+msgstr ""
+
+#: Common/FeedDisplay.php:243 Common/Settings/Tabs/SBR_Translation_Tab.php:102
+#: sbr-functions.php:267
+msgid "hours"
+msgstr ""
+
+#: Common/FeedDisplay.php:244 Common/Settings/Tabs/SBR_Translation_Tab.php:107
+#: sbr-functions.php:268
+msgid "day"
+msgstr ""
+
+#: Common/FeedDisplay.php:245 Common/Settings/Tabs/SBR_Translation_Tab.php:112
+#: sbr-functions.php:269
+msgid "days"
+msgstr ""
+
+#: Common/FeedDisplay.php:246 Common/Settings/Tabs/SBR_Translation_Tab.php:117
+#: sbr-functions.php:270
+msgid "week"
+msgstr ""
+
+#: Common/FeedDisplay.php:247 Common/Settings/Tabs/SBR_Translation_Tab.php:122
+#: sbr-functions.php:271
+msgid "weeks"
+msgstr ""
+
+#: Common/FeedDisplay.php:248 Common/Settings/Tabs/SBR_Translation_Tab.php:127
+#: sbr-functions.php:272
+msgid "month"
+msgstr ""
+
+#: Common/FeedDisplay.php:249 Common/Settings/Tabs/SBR_Translation_Tab.php:132
+#: sbr-functions.php:273
+msgid "months"
+msgstr ""
+
+#: Common/FeedDisplay.php:250 Common/FeedDisplay.php:251
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:142
+msgid "years"
+msgstr ""
+
+#: Common/FeedDisplay.php:252 Common/Settings/Tabs/SBR_Translation_Tab.php:147
+#: sbr-functions.php:276
+msgid "ago"
+msgstr ""
+
+#: Common/FeedDisplay.php:393 Pro/FeedDisplay.php:158
+msgid "This error message is only visible to WordPress admins"
+msgstr ""
+
+#: Common/SBR_Blocks.php:111
+msgid "Add Settings"
+msgstr ""
+
+#: Common/SBR_Blocks.php:112
+msgid "Shortcode Settings"
+msgstr ""
+
+#: Common/SBR_Blocks.php:113
+msgid "Example"
+msgstr ""
+
+#: Common/SBR_Blocks.php:114
+msgid "Apply Changes"
+msgstr ""
+
+#: Common/SBR_Blocks.php:207
+msgid "Only Visible to WordPress Admins"
+msgstr ""
+
+#: Common/SBR_Blocks.php:213
+msgid "Your license key is inactive. Activate it to enable Pro features."
+msgstr ""
+
+#: Common/SBR_Blocks.php:215
+msgid "Your license has expired! Renew it to reactivate Pro features."
+msgstr ""
+
+#: Common/SBR_Blocks.php:219
+msgid "Resolve Now"
+msgstr ""
+
+#: Common/SBR_Blocks.php:269
+msgid "Create a Reviews Feed"
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:109
+msgid "You are not allowed to install plugins."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:121 Common/Services/SBR_Upgrader.php:287
+#: Common/Services/SBR_Upgrader.php:312
+msgid "You are not licensed."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:227
+msgid "Could not connect."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:236
+msgid ""
+"Could not install upgrade. Please download from smashballoon.com and install "
+"manually."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:272 Common/Services/SBR_Upgrader.php:331
+msgid "Plugin installed & activated."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:335
+msgid ""
+"Pro version installed but needs to be activated from the Plugins page inside "
+"your WordPress admin."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:408
+msgid "This license is expired."
+msgstr ""
+
+#: Common/Services/SBR_Upgrader.php:411
+msgid ""
+"We encountered a problem unlocking the PRO features. Please install the PRO "
+"version manually."
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:45
+msgid "Optimize Images"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:46
+msgid ""
+"It will create multiple local copies of images in different sizes and use "
+"smallest size based on where the image is being displayed"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:58
+msgid "Images Cleared"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:84
+msgid "Usage Tracking"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:86
+#, php-format
+msgid ""
+"This helps us prevent plugin and theme conflicts by sending a report in the "
+"background once per week about your settings and relevant site stats. It "
+"does not send sensitive information like access tokens, email addresses, or "
+"user info. This will not affect your site performace as well. %sLearn More%s"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:98
+msgid "Enqueue JavaScript in head"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Advanced_Tab.php:99
+msgid ""
+"Add the JavaScript file for the plugin in the header instead of the footer"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:29
+msgid "Feeds"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:44
+msgid "Caching"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:49
+msgid "GDPR"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:51
+#, php-format
+msgid ""
+"We will automatically enable GDPR compliance if we detect a supported "
+"privacy consent plugin.%sLearn more%s."
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Feeds_Tab.php:56
+msgid "Automatic"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:29
+msgid "General"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:44
+#: Common/Settings/Tabs/SBR_General_Tab.php:52
+msgid "License Key"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:46
+#: Common/Settings/Tabs/SBR_General_Tab.php:54
+msgid "Your license key provides access to updates and support"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:59
+msgid "Manage Sources"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:60
+msgid "Add or remove connected accounts"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:64
+msgid "Manage API Keys"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:66
+msgid "Update or modify an API key"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:73
+msgid "Preserve settings if plugin is removed"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:74
+msgid ""
+"This will make sure that all of your feeds and settings are still saved even "
+"if the plugin is uninstalled"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:83
+msgid "Import Feed Settings"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:85
+msgid ""
+"You will need a JSON file previously exported from the Reviews Feed Plugin"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:88
+msgid "Export Feed Settings"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_General_Tab.php:90
+msgid "Export settings for one or more of your feeds"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:31
+msgid "Language & Translation"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:49
+#, php-format
+msgid ""
+"Change the displayed language for all feeds and its displayed reviews. You "
+"can override this for each feed from the individual feed settings.%sLearn "
+"more%s <br/>\n"
+"                    %sNote: Currently only Google support translated reviews."
+"%s"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:64
+msgid "Custom Text/Translate"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:65
+msgid ""
+"Enter custom text for the words below, or translate it into the language you "
+"would like to use."
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:68
+msgid "Dates"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:73
+msgid "Used for header “Write a Review” button"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:78
+msgid "Used for “Posted a second ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:83
+msgid "Used for “Posted a seconds ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:88
+msgid "Used for “Posted a minute ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:93
+msgid "Used for “Posted a minutes ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:98
+msgid "Used for “Posted a hour ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:103
+msgid "Used for “Posted a hours ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:108
+msgid "Used for “Posted a day ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:113
+msgid "Used for “Posted a days ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:118
+msgid "Used for “Posted a week ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:123
+msgid "Used for “Posted a weeks ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:128
+msgid "Used for “Posted a month ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:133
+msgid "Used for “Posted a months ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:137 sbr-functions.php:274
+#: sbr-functions.php:275
+msgid "year"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:138
+msgid "Used for “Posted a year ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:143
+msgid "Used for “Posted a years ago”"
+msgstr ""
+
+#: Common/Settings/Tabs/SBR_Translation_Tab.php:148
+msgid "Used for “Posted a XXX ago”"
+msgstr ""
+
+#: Common/Tooltip_Wizard.php:122
+msgid "Add a Block"
+msgstr ""
+
+#: Common/Tooltip_Wizard.php:125
+msgid "Click the plus button, search for Reviews Feed"
+msgstr ""
+
+#: Common/Tooltip_Wizard.php:127
+msgid "and click the block to embed it."
+msgstr ""
+
+#: Common/Tooltip_Wizard.php:130
+msgid "Learn More"
+msgstr ""
+
+#: Common/Tooltip_Wizard.php:135
+msgid "Done"
+msgstr ""
+
+#: Common/Util.php:22
+msgid "Place ID"
+msgstr ""
+
+#: Common/Util.php:23
+msgid "Enter Place ID"
+msgstr ""
+
+#: Common/Util.php:34 Common/Util.php:42 Common/Util.php:50 Common/Util.php:57
+msgid "Page URL"
+msgstr ""
+
+#: Common/Util.php:35
+msgid "https://tripadvisor.com/..."
+msgstr ""
+
+#: Common/Util.php:43
+msgid "https://yelp.com/..."
+msgstr ""
+
+#: Common/Util.php:51
+msgid "https://trustpilot.com/review/..."
+msgstr ""
+
+#: Common/Util.php:58
+msgid "https://wordpress.org/..."
+msgstr ""
+
+#: Common/Util.php:82
+msgid "Unable to connect to Facebook to retrieve account information."
+msgstr ""
+
+#: Common/Util.php:122
+msgid ""
+"Your server could not complete a remote request to Facebook's API. Your host "
+"may be blocking access or\n"
+"                    there may be a problem with your server."
+msgstr ""
+
+#: Common/Util.php:152
+msgid ""
+"New reviews will not display until an API key is entered for your sources."
+msgstr ""
+
+#: Common/Util.php:153
+msgid ""
+"Due to API limitations your feeds will not show new reviews until you enter "
+"an API key on the settings page."
+msgstr ""
+
+#: Common/Util.php:157
+msgid "How to create an API key"
+msgstr ""
+
+#: Common/Util.php:162
+msgid "Go to Settings page"
+msgstr ""
+
+#: Common/Util.php:174
+msgid "You have reached the number of allowed sources."
+msgstr ""
+
+#: Common/Util.php:175
+msgid ""
+"Due to API limitations your feeds will not show new reviews because you have "
+"reached the number of allowed sources."
+msgstr ""
+
+#: Common/Util.php:235
+msgid "Custom Facebook Feed"
+msgstr ""
+
+#: Common/Util.php:236
+msgid "Add Facebook posts from your timeline, albums and much more."
+msgstr ""
+
+#: Common/Util.php:245
+msgid "Instagram Feed"
+msgstr ""
+
+#: Common/Util.php:246
+msgid "A quick and elegant way to add your Instagram posts to your website. "
+msgstr ""
+
+#: Common/Util.php:255
+msgid "Custom Twitter Feeds"
+msgstr ""
+
+#: Common/Util.php:256
+msgid "A customizable way to display tweets from your Twitter account. "
+msgstr ""
+
+#: Common/Util.php:265
+msgid "Feeds for YouTube"
+msgstr ""
+
+#: Common/Util.php:266
+msgid "A simple yet powerful way to display videos from YouTube. "
+msgstr ""
+
+#: Common/Util.php:286
+msgid "WPForms"
+msgstr ""
+
+#: Common/Util.php:287
+msgid ""
+"The most beginner friendly drag & drop WordPress forms plugin allowing you "
+"to create beautiful contact forms, subscription forms, payment forms, and "
+"more in minutes, not hours!"
+msgstr ""
+
+#: Common/Util.php:295
+msgid "MonsterInsights"
+msgstr ""
+
+#: Common/Util.php:296
+msgid ""
+"MonsterInsights makes it “effortless” to properly connect your WordPress "
+"site with Google Analytics, so you can start making data-driven decisions to "
+"grow your business."
+msgstr ""
+
+#: Common/Util.php:304
+msgid "OptinMonster"
+msgstr ""
+
+#: Common/Util.php:305
+msgid ""
+"Our high-converting optin forms like Exit-Intent® popups, Fullscreen Welcome "
+"Mats, and Scroll boxes help you dramatically boost conversions and get more "
+"email subscribers."
+msgstr ""
+
+#: Common/Util.php:313
+msgid "WP Mail SMTP"
+msgstr ""
+
+#: Common/Util.php:314
+msgid ""
+"Make sure your website's emails reach the inbox. Our goal is to make email "
+"deliverability easy and reliable. Trusted by over 1 million websites."
+msgstr ""
+
+#: Common/Util.php:322
+msgid "RafflePress"
+msgstr ""
+
+#: Common/Util.php:323
+msgid ""
+"Turn your visitors into brand ambassadors! Easily grow your email list, "
+"website traffic, and social media followers with powerful viral giveaways & "
+"contests."
+msgstr ""
+
+#: Common/Util.php:331
+msgid "All in One SEO Pack"
+msgstr ""
+
+#: Common/Util.php:332
+msgid ""
+"Out-of-the-box SEO for WordPress. Features like XML Sitemaps, SEO for custom "
+"post types, SEO for blogs, business sites, or ecommerce sites, and much more."
+msgstr ""
+
+#: Common/Util.php:859
+msgid "Upgrade to Pro to display Facebook reviews"
+msgstr ""
+
+#: Common/Util.php:860
+msgid ""
+"Upgrade to our \"Plus\" tier to display reviews from the well known social "
+"media platform."
+msgstr ""
+
+#: Common/Util.php:871
+msgid "Upgrade to Pro to display TrustPilot reviews"
+msgstr ""
+
+#: Common/Util.php:872
+msgid ""
+"Upgrade to our \"Plus\" tier to display reviews from the well known business "
+"review site."
+msgstr ""
+
+#: Common/Util.php:881
+msgid "Upgrade to Pro to display TripAdvisor reviews"
+msgstr ""
+
+#: Common/Util.php:882
+msgid ""
+"Upgrade to our \"Elite\" tier to display reviews from the well known travel "
+"advice site."
+msgstr ""
+
+#: Common/Util.php:891
+msgid "Upgrade to Pro to display WordPress.org reviews"
+msgstr ""
+
+#: Common/Util.php:892
+msgid ""
+"Upgrade to our \"Elite\" tier to display reviews for plugins and themes."
+msgstr ""
+
+#: Common/Util.php:901
+msgid "Upgrade to Pro to get Carousel layout"
+msgstr ""
+
+#: Common/Util.php:902
+msgid ""
+"An eye-catching rotating slider of your videos to add extra content in "
+"minimal space on your website."
+msgstr ""
+
+#: Common/Util.php:911
+msgid "Upgrade to Pro to display more reviews"
+msgstr ""
+
+#: Common/Util.php:912
+msgid ""
+"More layout settings to customize the look and feel of your reviews even "
+"more."
+msgstr ""
+
+#: Common/Util.php:921
+msgid "Upgrade to Pro to display average rating"
+msgstr ""
+
+#: Common/Util.php:922
+msgid ""
+"Boost social proof to make more sales conversions with the number of ratings "
+"and an average rating."
+msgstr ""
+
+#: Common/Util.php:931
+msgid "Upgrade to Pro to add load more functionality"
+msgstr ""
+
+#: Common/Util.php:932
+msgid ""
+"Overwhelm (in a good way) your visitors with additional reviews loaded on "
+"the page with a click."
+msgstr ""
+
+#: Common/Util.php:941
+msgid "Upgrade to Pro to add images"
+msgstr ""
+
+#: Common/Util.php:942
+msgid "Display images from Yelp and Tripadvisor reviews."
+msgstr ""
+
+#: Common/Util.php:951
+msgid "Upgrade to Pro to display author images"
+msgstr ""
+
+#: Common/Util.php:952
+msgid "Build brand trust with positive reviews from real customers."
+msgstr ""
+
+#: Common/Util.php:961
+msgid "Upgrade to Pro to filter your reviews"
+msgstr ""
+
+#: Common/Util.php:962
+msgid ""
+"Show only the most positive reviews and build brand trust with review "
+"filtering."
+msgstr ""
+
+#: Common/Util.php:971
+msgid "Upgrade to Pro to moderate your reviews"
+msgstr ""
+
+#: Common/Util.php:972
+msgid ""
+"Take complete control of what reviews show in the feed using keyword filters "
+"and a visual moderation system."
+msgstr ""
+
+#: Common/Util.php:981
+msgid "Upgrade to Pro to get one-click templates!"
+msgstr ""
+
+#: Common/Util.php:982
+msgid ""
+"Quickly create and preview new feeds with pre-configured options based on "
+"popular feed types."
+msgstr ""
+
+#: Common/Util.php:991
+msgid "Upgrade to Pro for responsive layouts"
+msgstr ""
+
+#: Common/Util.php:992
+msgid ""
+"Take control of your feed layouts by customizing number of reviews & columns"
+msgstr ""
+
+#: Common/Util.php:1017
+msgid "Display images"
+msgstr ""
+
+#: Common/Util.php:1018
+msgid "With the Pro version enable images like avatars and review  photos"
+msgstr ""
+
+#: Common/Util.php:1023
+msgid "Get carousel layout"
+msgstr ""
+
+#: Common/Util.php:1024
+msgid "Show your reviews in a neat carousel with Review Feed Pro"
+msgstr ""
+
+#: Common/Util.php:1029
+msgid "Change your feed style with one-click templates!"
+msgstr ""
+
+#: Common/Util.php:1030
+msgid "Over 12 templates to choose from"
+msgstr ""
+
+#: Common/Util.php:1035
+msgid "Only show selected reviews with Moderation mode"
+msgstr ""
+
+#: Common/Util.php:1036
+msgid "Hide or show only certain reviews"
+msgstr ""
+
+#: Pro/FeedDisplay.php:74 Pro/FeedDisplay.php:82
+msgid "Load More"
+msgstr ""
+
+#: sbr-functions.php:440 sbr-functions.php:488
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: sbr-functions.php:447
+msgid "Support"
+msgstr ""
+
+#: sbr-functions.php:489
+msgid ""
+"<div class=\"sb-pro-upgradelink-bg\"></div><strong class=\"sb-pro-upgradelink"
+"\">Upgrade to Pro</strong>"
+msgstr ""
